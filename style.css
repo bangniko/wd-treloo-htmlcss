@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 .header {
@@ -48,7 +49,7 @@
 
 .hero {
     position: relative;
-    background-image: url('wd-treloo-htmlcss/assets/pexels-francesco-ungaro-2835436 1.png');    
+    background-image: url(assets/pexels-francesco-ungaro-2835436.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
